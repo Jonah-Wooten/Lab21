@@ -23,15 +23,14 @@ Email
 <br>
 
 Phone Number
-<input type= "number" name = "pNumber">
+<input type= "text" name = "pNumber">
 <br>
 
 Password
 <input type= "text" name = "passN">
 <br>
 
-<input type="submit">
-
+<input type="submit" name = "submit">
 
 
 

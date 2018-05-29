@@ -7,14 +7,14 @@
 <title>Summary</title>
 </head>
 <body>
-${abc}
+<p>${Person}
 <br>
-${abc.firstName}
-${abc.lastName}
-${abc.eName}
-${abc.pNumber}
-${abc.pWord}
-
+<p>${Person.fName}
+<p>${Person.lName}
+<p>${Person.eName}
+<p>${Person.pNumber}
+<p>${Person.passN}
+<a href="/">Main Menu</a>
 
 </body>
 </html>
